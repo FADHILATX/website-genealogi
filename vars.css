@@ -1,0 +1,20 @@
+/* Figma Styles of your File */
+:root {
+    /* Colors */
+    --primary-color: #000000;
+    --secondary-color: #ffffff;
+
+    /* Fonts */
+    --font-family: 'Arial, sans-serif';
+    --font-size: 16px;
+
+    /* Effects */
+    --box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Figma Color Variables of your File */
+[data-collection-1-mode="mode-1"] {
+    /* mode-1 */
+    --color: #ffffff;
+}
+  

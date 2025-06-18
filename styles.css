@@ -1,0 +1,308 @@
+.body {
+  background-size: cover;
+  background-position: center;
+  margin: auto;
+  padding: auto;
+  font-family: "Inter", sans-serif;
+  background-color: #f0f0f0;
+  color: #333333;
+  line-height: 1.6;
+  size: auto;
+
+}
+
+
+.navigate,
+.navigate * {
+  box-sizing: 1366px  / 100%;
+  width: 100%;
+  height: 100%;
+  
+}
+.navigate1 {
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  height: 77px;
+  width: 1366px;
+  position: relative;
+  overflow: hidden;
+}
+.burunyu {
+  width: 207px;
+  height: 207px;
+  position: absolute;
+  left: -23px;
+  top: -26px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-2 {
+  background: #c7d5b9;
+  border-radius: 14px 0px 0px 14px;
+  width: 794px;
+  height: 76px;
+  position: absolute;
+  left: 276px;
+  top: 1px;
+}
+.search {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSans-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 846px;
+  top: 20px;
+}
+.rectangle-4 {
+  background: #d9d9d9;
+  border-radius: 16px;
+  width: 137px;
+  height: 62px;
+  position: absolute;
+  left: 1291px;
+  top: 7px;
+}
+.album {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 967px;
+  top: 20px;
+}
+.create-account {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1099px;
+  top: 28px;
+}
+.sign-up {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1315px;
+  top: 24px;
+}
+.pohon-keluarga {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 567px;
+  top: 20px;
+}
+
+/* baris ke dua */
+
+
+.backgorund,
+.backgorund * {
+  box-sizing: border-box;
+}
+.backgorund {
+  background: #eff5e9;
+  height: 5577px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #ffffff;
+  width: 824px;
+  height: 1011px;
+  position: absolute;
+  left: 0px;
+  top: 16px;
+}
+.lorem-ipsum-dolor-si-amet-vicuimu-deataeaigogmdoijaagdagds-woi-carikan-aku-nenek-moyang-ku-atau-gua-kirim-nuklir {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 741px;
+  width: 739px;
+  height: 595px;
+}
+.apa-yang-akan-anda-temukan-tentang-leluhur-anda {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 65px;
+  top: 234px;
+  width: 739px;
+  height: 475px;
+}
+.pencatatan-pohon-keluarga {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 65px;
+  top: 136px;
+  width: 626px;
+  height: 66px;
+}
+
+/* baris ke tiga */
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1 {
+    text-decoration: none;
+    display: block;
+    inline-size: auto;
+    font-size: 24px;
+    color: #000000;
+    text-align: left;
+    color: #0080ff;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.1);
+    transition: color 0.3s ease;    
+}
+h2
+{
+    font-size: 20px;
+    color: #2c3e50;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 2px rgba(255, 0, 0, 0.1);
+    transition: color 0.3s ease;    
+}
+html, body {
+    height: 100%;
+    margin: 0;  
+    background-color: #dcd0ff;
+}
+p {
+    font-size: 16px;
+    color: #003972;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: color 0.3s ease; 
+    text-shadow: 1px 1px 2px rgba(255, 0, 0, 0.1);
+}
+.note {
+    font-size: 14px;
+    color: #a082e4;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
